@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$/../W02-KotlinDemo" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../w01-empty-JashanRdn" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../w01-historicalimages-JashanRdn" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../w03-calculations-JashanRdn" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../w03-lightmeup-JashanRdn" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../w03-lightmeup-JashanRdn2" vcs="Git" />
+  </component>
+</project>

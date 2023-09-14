@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Core 1</string>
+    <string name="add">Jod</string>
+    <string name="subtract">Ghata</string>
+    <string name="roll">Rol</string>
+    <string name="reset">Reeset</string>
+    <string name="dice">Paasa</string>
+</resources>

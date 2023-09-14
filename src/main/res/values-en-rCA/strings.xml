@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Core 1</string>
+    <string name="add">Plus</string>
+    <string name="subtract">Minus</string>
+    <string name="roll">Spin</string>
+    <string name="reset">Zero</string>
+    <string name="dice">This is a dice</string>
+</resources>
